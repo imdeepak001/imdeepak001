@@ -1,2 +1,2 @@
-# Capturer_23-03-24
+# 2d._.photography
 Elevate your photography portfolio with our comprehensive tutorial on building a stunning website using HTML, CSS, and JavaScript!
